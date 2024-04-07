@@ -18,7 +18,7 @@ tiger.move()
 
 print()
 
-# Multilevel Inheritance :
+# Multiple Inheritance :
 
 class Organism:
     def __init__(self, name):
